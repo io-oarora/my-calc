@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyCalcTheme.qml</file>
+        <file>MyCalcInput.qml</file>
+        <file>MyCalcButtons.qml</file>
+        <file>MyCalcButton.qml</file>
+    </qresource>
+</RCC>
